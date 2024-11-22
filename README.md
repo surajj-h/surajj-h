@@ -43,6 +43,9 @@ const suraj: Developer = {
   <a href="https://instagram.com/suraj.h_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
+  <a href="https://www.chess.com/member/radheeeradheee" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-%23000000.svg?style=for-the-badge&logo=chess.com&logoColor=white"/>
+  </a>
   <a href="mailto:surajj.hiremath@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
