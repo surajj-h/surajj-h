@@ -1,6 +1,6 @@
 <div align="center">
   
-  # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hey+there+%F0%9F%91%8B+I'm+Suraj;Full+Stack+Developer;Building+awesome+web+experiences)](https://git.io/typing-svg)
+  # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&random=false&width=650&height=100&lines=Hey+there+%F0%9F%91%8B+I'm+Suraj;Full+Stack+Developer;Building+awesome+web+experiences)](https://git.io/typing-svg)
 
   <a href="https://twitter.com/suraj__h">
     <img src="https://img.shields.io/twitter/follow/suraj__h?style=for-the-badge&logo=twitter&labelColor=1DA1F2&color=1DA1F2&logoColor=white&label=Follow"/>
