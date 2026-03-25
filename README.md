@@ -34,7 +34,7 @@ const suraj: Developer = {
 
 ## 🌐 Connect with me
 <p align="left">
-  <a href="https://twitter.com/suraj__h" target="_blank">
+  <a href="https://twitter.com/raidenndotai" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/surajhiremath" target="_blank">
